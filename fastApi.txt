@@ -1,0 +1,22 @@
+Render
+
+crear cuanta con gitHub
+
+Documentacion de render:
+https://render.com/docs/deploy-fastapi
+
+
+1. despes de crear el repositorio de render, 
+   copiamos la estructura de 3 archivos: .gitignore,
+   render.yaml y requirements
+
+2. hacer webService en render, dando solo permiso al repositorio
+   para que aparezca en render
+
+3. en este caso, para render hay q colocar free y el
+   BuildCommand y StartCommand de la documentacion render
+
+encender el servicio de render
+
+
+
